@@ -1,1 +1,1 @@
-# sc-394-hw-project
+# csc-394-hw-project
